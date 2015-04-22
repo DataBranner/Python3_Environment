@@ -11,7 +11,7 @@ The working Vagrantfile (the configuration file for a Vagrant environment) is in
  1. Clone this entire repository into the directory where you want it to live. I suggest making a special directory `develop` or `vagrant_environments` or something explicit of that sort. The simplest way to do it will look like this:
 
         cd ~/develop
-        git clone https://github.com/dpbmm/Python3_Environment.git
+        git clone https://github.com/databranner/Python3_Environment.git
         cd Python3_Environment
 
     Notice that by default the name of the subdirectory (within `develop`) into which the repo is cloned will be the same as the name of the project — `Python3_Environment`.
